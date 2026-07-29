@@ -17,6 +17,12 @@ The main objectives of this project are to:
 - Examine department referral patterns.
 - Build an interactive Excel dashboard for monitoring key ER metrics.
 
+## Dataset Overview
+
+The dataset contains **9,216 Hospital Emergency Room patient records** covering 2023 and 2024. It includes information related to patient demographics, admission date and time, waiting time, admission status, department referrals, and patient satisfaction.
+
+The dataset was used to analyze ER operational performance, patient demographics, waiting-time patterns, admission trends, and department referral patterns.
+
 ## Data Cleaning and Transformation
 
 The dataset was cleaned and transformed using Excel and Power Query. Key steps included:
@@ -71,6 +77,7 @@ The dashboard includes interactive **Year and Month slicers**, allowing users to
 
 - `Hospital_Emergency_Room_Analysis.xlsx` — Complete Excel analysis and interactive dashboard.
 - `hospital_er_dashboard.png` — Final dashboard preview.
+- `Hospital Emergency Room Data.csv` — Raw dataset used for the analysis.
 
 ## Dashboard Features
 
